@@ -1,0 +1,45 @@
+# Input-and-Output
+#1 hello world
+print("Hello World")
+
+
+#2 Hello World with tab
+print("Hello World\tHello World")
+
+
+#3 Hello World with new line
+print("Hello World\nHello World")
+
+
+#4 Integer Input
+a=int(input())#python
+print(a)
+
+
+#Float Input
+a=float(input())
+print("%.2f"%a)
+
+
+#Character Input
+a=input()
+print(a)
+
+
+#String Input
+a=input()
+print(a)
+
+
+#Ascii-I
+a=input()
+print(ord(a))
+
+
+#Ascii-II
+a=int(input())
+print(chr(a))
+
+
+Footer
+© 2022 GitHub, Inc.
